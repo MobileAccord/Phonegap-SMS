@@ -8,7 +8,7 @@
         <description>Cordova SMS Plugin to Send and Receive SMS</description>
         <license>MIT</license>
         <keywords>cordova,sms</keywords>
-        <repo>https://github.com/asanka-x/Phonegap-SMS.git</repo>
+        <repo>https://github.com/MobileAccord/Phonegap-SMS.git</repo>
 		<js-module src="www/smsplugin.js" name="smsplugin">
             <clobbers target="smsplugin" />
         </js-module>
